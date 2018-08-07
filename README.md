@@ -1,7 +1,7 @@
 # Neighborhood-Map
 
 ## Overview:
-The Neighborhood-Mapp is a single page app, which uses ReactJS, Google Maps, and FourSquare API, that enables users to search for interesting locations or places around my neighborhood in Budapest, Hungary.
+The Neighborhood-Map is a single page app, which uses ReactJS, Google Maps, and FourSquare API, that enables users to search for interesting locations or places around Zugló area in Budapest, Hungary.
 
 ## Requirements:
 * [ReactJS:](https://reactjs.org) A JavaScript library for building user interface.
